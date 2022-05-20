@@ -6,3 +6,15 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.off {
+  display: none;
+}
+.charaContainer {
+background-color: rgba(87, 82, 82, 0.713);
+width: 70%;
+justify-content: center;
+margin: 0 auto;
+border-radius: 10px;
+border: 2px solid greenyellow;
+color: white;
+}
