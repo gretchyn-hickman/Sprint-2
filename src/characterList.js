@@ -10,12 +10,3 @@ export default function characterList(props){
     </div>
   )
 }
-
-
-
-// div
-//     h1 for name
-//     drop down Option
-// div drop down
-//   data
-
