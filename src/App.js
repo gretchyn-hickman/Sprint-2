@@ -7,6 +7,7 @@ const App = () => {
   // the state properties here.
 const [character, setCharacter] = useState(data)
 
+
   return (
     <div className="App">
       <h1 className="Header">Characters</h1>
