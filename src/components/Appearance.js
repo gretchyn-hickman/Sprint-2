@@ -51,4 +51,3 @@ export default function Appearance(props) {
     </StyledAppear>
   );
 }
-//     <p>Gender: {gender}</p>

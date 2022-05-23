@@ -1,4 +1,3 @@
-// Write your Character component here
 import React, { useState } from "react";
 import styled, { keyframes } from "styled-components";
 import Appearance from "./Appearance";

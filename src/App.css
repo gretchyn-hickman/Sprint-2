@@ -6,10 +6,3 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
-.apple {
-  border-bottom: 2px solid greenyellow;
-  padding: 5%;
-  transition: all 0.2s ease-in-out;
-  transform: scale(1.2);
-  opacity: 0;
-}
